@@ -1,1 +1,1 @@
-Testando tags do git 
+arquivo da branch beta
